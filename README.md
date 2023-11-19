@@ -3,6 +3,7 @@
 This project is a Dema.ai Backend (data) Hiring Test.
 
 ## Setup
+Python 3.9 should be used
 
 1. Clone the repository:
 
