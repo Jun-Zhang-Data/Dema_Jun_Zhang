@@ -25,7 +25,8 @@ This project is a Dema.ai Backend (data) Hiring Test.
 4. Run backend:
 
     ```bash
-    python app/backend.py
+    cd app
+    python backend.py
     ```
 
 ## Usage
